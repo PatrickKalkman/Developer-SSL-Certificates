@@ -40,4 +40,4 @@ If you don't have Chocolatey installed, look at their [homepage](https://chocola
 5. Add your local domains and ip-addresses to certificate-ext.conf
 6. Call `generate-ca.bat` to generate the Certificate Authority private key and CA certificate
 7. Call `generate-cert.bat` to generate the Certificate and sign it with the CA private key
-8. Install the CA certificate in 
+8. Install the CA certificate using the Certificate Manager
